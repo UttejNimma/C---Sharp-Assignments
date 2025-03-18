@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindGreatestProduct", "FindGreatestProduct\FindGreatestProduct.csproj", "{9986700C-ADD7-4FE3-B84B-53EF88FCC9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9986700C-ADD7-4FE3-B84B-53EF88FCC9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9986700C-ADD7-4FE3-B84B-53EF88FCC9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9986700C-ADD7-4FE3-B84B-53EF88FCC9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9986700C-ADD7-4FE3-B84B-53EF88FCC9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D669C61-1DF3-4F49-B419-4D731852C138}
+	EndGlobalSection
+EndGlobal

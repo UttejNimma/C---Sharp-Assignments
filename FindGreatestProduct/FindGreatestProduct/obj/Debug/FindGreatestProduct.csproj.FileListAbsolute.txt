@@ -1,0 +1,7 @@
+C:\Users\Uttej Nimma\source\repos\FindGreatestProduct\FindGreatestProduct\bin\Debug\FindGreatestProduct.exe.config
+C:\Users\Uttej Nimma\source\repos\FindGreatestProduct\FindGreatestProduct\bin\Debug\FindGreatestProduct.exe
+C:\Users\Uttej Nimma\source\repos\FindGreatestProduct\FindGreatestProduct\bin\Debug\FindGreatestProduct.pdb
+C:\Users\Uttej Nimma\source\repos\FindGreatestProduct\FindGreatestProduct\obj\Debug\FindGreatestProduct.csproj.AssemblyReference.cache
+C:\Users\Uttej Nimma\source\repos\FindGreatestProduct\FindGreatestProduct\obj\Debug\FindGreatestProduct.csproj.CoreCompileInputs.cache
+C:\Users\Uttej Nimma\source\repos\FindGreatestProduct\FindGreatestProduct\obj\Debug\FindGreatestProduct.exe
+C:\Users\Uttej Nimma\source\repos\FindGreatestProduct\FindGreatestProduct\obj\Debug\FindGreatestProduct.pdb

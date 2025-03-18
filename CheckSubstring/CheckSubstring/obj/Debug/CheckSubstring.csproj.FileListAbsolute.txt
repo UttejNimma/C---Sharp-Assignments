@@ -1,0 +1,7 @@
+C:\Users\Uttej Nimma\source\repos\CheckSubstring\CheckSubstring\bin\Debug\CheckSubstring.exe.config
+C:\Users\Uttej Nimma\source\repos\CheckSubstring\CheckSubstring\bin\Debug\CheckSubstring.exe
+C:\Users\Uttej Nimma\source\repos\CheckSubstring\CheckSubstring\bin\Debug\CheckSubstring.pdb
+C:\Users\Uttej Nimma\source\repos\CheckSubstring\CheckSubstring\obj\Debug\CheckSubstring.csproj.AssemblyReference.cache
+C:\Users\Uttej Nimma\source\repos\CheckSubstring\CheckSubstring\obj\Debug\CheckSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Uttej Nimma\source\repos\CheckSubstring\CheckSubstring\obj\Debug\CheckSubstring.exe
+C:\Users\Uttej Nimma\source\repos\CheckSubstring\CheckSubstring\obj\Debug\CheckSubstring.pdb

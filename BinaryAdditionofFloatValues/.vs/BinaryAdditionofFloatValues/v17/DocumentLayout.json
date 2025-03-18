@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A48D0D1-5AD0-4223-8382-F6A84FAD839C}|BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues.csproj|c:\\users\\uttej nimma\\source\\repos\\binaryadditionoffloatvalues\\binaryadditionoffloatvalues\\binarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A48D0D1-5AD0-4223-8382-F6A84FAD839C}|BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues.csproj|solutionrelative:binaryadditionoffloatvalues\\binarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A48D0D1-5AD0-4223-8382-F6A84FAD839C}|BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues.csproj|C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\binaryadditionoffloatvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A48D0D1-5AD0-4223-8382-F6A84FAD839C}|BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues.csproj|solutionrelative:binaryadditionoffloatvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A48D0D1-5AD0-4223-8382-F6A84FAD839C}|BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues.csproj|C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\binaryadditionoffloatvalues\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A48D0D1-5AD0-4223-8382-F6A84FAD839C}|BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues.csproj|solutionrelative:binaryadditionoffloatvalues\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues\\Program.cs",
+              "RelativeDocumentMoniker": "BinaryAdditionofFloatValues\\Program.cs",
+              "ToolTip": "C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues\\Program.cs*",
+              "RelativeToolTip": "BinaryAdditionofFloatValues\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:56:56.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues\\BinaryCalculator.cs",
+              "RelativeDocumentMoniker": "BinaryAdditionofFloatValues\\BinaryCalculator.cs",
+              "ToolTip": "C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues\\BinaryCalculator.cs",
+              "RelativeToolTip": "BinaryAdditionofFloatValues\\BinaryCalculator.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:57:53.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validations.cs",
+              "DocumentMoniker": "C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues\\Validations.cs",
+              "RelativeDocumentMoniker": "BinaryAdditionofFloatValues\\Validations.cs",
+              "ToolTip": "C:\\Users\\Uttej Nimma\\source\\repos\\BinaryAdditionofFloatValues\\BinaryAdditionofFloatValues\\Validations.cs",
+              "RelativeToolTip": "BinaryAdditionofFloatValues\\Validations.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:01:52.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

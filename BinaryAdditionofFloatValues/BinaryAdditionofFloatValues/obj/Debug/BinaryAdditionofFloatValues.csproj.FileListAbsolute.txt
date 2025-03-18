@@ -1,0 +1,7 @@
+C:\Users\Uttej Nimma\source\repos\BinaryAdditionofFloatValues\BinaryAdditionofFloatValues\bin\Debug\BinaryAdditionofFloatValues.exe.config
+C:\Users\Uttej Nimma\source\repos\BinaryAdditionofFloatValues\BinaryAdditionofFloatValues\bin\Debug\BinaryAdditionofFloatValues.exe
+C:\Users\Uttej Nimma\source\repos\BinaryAdditionofFloatValues\BinaryAdditionofFloatValues\bin\Debug\BinaryAdditionofFloatValues.pdb
+C:\Users\Uttej Nimma\source\repos\BinaryAdditionofFloatValues\BinaryAdditionofFloatValues\obj\Debug\BinaryAdditionofFloatValues.csproj.AssemblyReference.cache
+C:\Users\Uttej Nimma\source\repos\BinaryAdditionofFloatValues\BinaryAdditionofFloatValues\obj\Debug\BinaryAdditionofFloatValues.csproj.CoreCompileInputs.cache
+C:\Users\Uttej Nimma\source\repos\BinaryAdditionofFloatValues\BinaryAdditionofFloatValues\obj\Debug\BinaryAdditionofFloatValues.exe
+C:\Users\Uttej Nimma\source\repos\BinaryAdditionofFloatValues\BinaryAdditionofFloatValues\obj\Debug\BinaryAdditionofFloatValues.pdb
